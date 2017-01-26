@@ -1,42 +1,23 @@
-# 
-/r/financialindependence
-/r/personalfinance
+1) virer minimalist_lifestyle
+2) introduce :
+## Frugal - minimalist_lifestyle ##
+# Top
 /r/frugal
-/r/leanfire
-/r/investing
-/r/ynab
-/r/bikecommuting
-/r/budgetfood
-/r/dumpsterdiving
-/r/eatcheapandhealthy
-/r/homestead
-/r/livingofftheland
-/r/lowcar
-/r/patientgamers
-/r/permaculture
-/r/selfsufficiency
-/r/simpleliving/
-/r/tinyhouses
-/r/vandwellers
-
-# 
-/r/debtfree
-/r/FinancialPlanning
-
-# Related Subreddits:
-/r/financialindependence
-/r/personalfinance
-/r/personalfinancecanada
 # Philosophy
 /r/stoicism
 /r/minimalism
 /r/anticonsumption
 /r/simpleliving
-/r/permaculture
 # Housing
+/r/OffGridCabins
 /r/vandwellers
-/r/homesteading
 /r/tinyhouses
+# Homesteading
+/r/homesteading
+/r/homestead
+/r/livingofftheland
+/r/selfsufficiency
+/r/permaculture
 # Transportation
 /r/lowcar
 /r/bikecommuting
@@ -45,21 +26,32 @@
 /r/eatcheapandhealthy
 /r/fitmeals
 /r/mealprepsunday
-
-# /m/minimalist_lifestyle/
-/r/Anticonsumption
-/r/debtfree
-/r/declutter
-/r/Frugal
-/r/lowcar
-/r/minimalist
+/r/dumpsterdiving
+/r/budgetfood
 /r/minimeals
-/r/OffGridCabins
+# Money
+/r/financialindependence
+/r/leanfire
+/r/personalfinance
+/r/investing
+/r/ynab
+/r/debtfree
+/r/FinancialPlanning
+# Organization
+/r/declutter
 /r/onebag
 /r/OrganizationPorn
-/r/simpleliving
+# Others
+/r/patientgamers
 /r/ZeroWaste
 
+# /m/
+--/r/Anticonsumption
+--/r/debtfree
+--/r/Frugal
+--/r/lowcar
+--/r/minimalist
+--/r/simpleliving
 
 # m/selfsufficient/
 /r/Agriculture
@@ -156,7 +148,7 @@
 # /m/get_better/
 /r/coolguides
 /r/Fitness
-/r/Frugal
+--/r/Frugal
 /r/getdisciplined
 /r/GetMotivated
 /r/knowyourshit
@@ -165,7 +157,7 @@
 /r/LifeProTips
 /r/Meditation
 /r/Mindfulness
-/r/personalfinance
+--/r/personalfinance
 /r/quotes
 /r/selfhelp
 /r/selfimprovement
