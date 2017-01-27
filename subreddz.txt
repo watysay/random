@@ -1,5 +1,13 @@
-1) virer minimalist_lifestyle
-2) introduce :
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+-- <- modifier ça dans le subbreddit
+
+TODO :
+1)  virer minimalist_lifestyle
+2)  introduce : Frugal - minimalist_lifestyle
+    decomposer en plusieurs sous-subreddits ?
+
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+
 ## Frugal - minimalist_lifestyle ##
 # Philosophy
 /r/stoicism
@@ -44,7 +52,7 @@
 /r/patientgamers
 /r/ZeroWaste
 
-# m/selfsufficient/
+## m/selfsufficient/ ## 
 /r/Agriculture
 /r/Anticonsumption
 /r/aquaponics
@@ -110,7 +118,7 @@
 /r/whatsthisbug
 /r/whatsthisplant
 
-# whitelist
+##  whitelist ## 
 /r/Automate
 /r/DIY
 /r/Documentaries
@@ -124,9 +132,9 @@
 /r/SelfSufficiency
 /r/StallmanWasRight
 /r/UrbanHomestead
-/r/woodworking
+--/r/woodworking
 
-# diy
+## diy ## 
 /r/arduino
 /r/DIY
 /r/electronics
@@ -136,7 +144,7 @@
 /r/Tools
 /r/woodworking
 
-# /m/get_better/
+## /m/get_better/ ## 
 /r/coolguides
 /r/Fitness
 --/r/Frugal
@@ -157,7 +165,7 @@
 /r/TimeManagement
 /r/ZenHabits
 
-# futuretechmulti subreddits
+##  futuretechmulti subreddits ## 
 /r/aiclass
 /r/aiHub
 /r/artificial
