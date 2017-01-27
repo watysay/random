@@ -1,11 +1,10 @@
 1) virer minimalist_lifestyle
 2) introduce :
 ## Frugal - minimalist_lifestyle ##
-# Top
-/r/frugal
 # Philosophy
 /r/stoicism
 /r/minimalism
+/r/frugal
 /r/anticonsumption
 /r/simpleliving
 # Housing
@@ -44,14 +43,6 @@
 # Others
 /r/patientgamers
 /r/ZeroWaste
-
-# /m/
---/r/Anticonsumption
---/r/debtfree
---/r/Frugal
---/r/lowcar
---/r/minimalist
---/r/simpleliving
 
 # m/selfsufficient/
 /r/Agriculture
