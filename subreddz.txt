@@ -132,7 +132,6 @@ TODO :
 /r/SelfSufficiency
 /r/StallmanWasRight
 /r/UrbanHomestead
---/r/woodworking
 
 ## diy ## 
 /r/arduino
@@ -147,7 +146,6 @@ TODO :
 ## /m/get_better/ ## 
 /r/coolguides
 /r/Fitness
---/r/Frugal
 /r/getdisciplined
 /r/GetMotivated
 /r/knowyourshit
@@ -156,7 +154,6 @@ TODO :
 /r/LifeProTips
 /r/Meditation
 /r/Mindfulness
---/r/personalfinance
 /r/quotes
 /r/selfhelp
 /r/selfimprovement
