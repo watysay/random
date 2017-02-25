@@ -1,0 +1,210 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+-- <- modifier ça dans le subbreddit
+
+TODO :
+1)  virer minimalist_lifestyle
+2)  introduce : Frugal - minimalist_lifestyle
+    decomposer en plusieurs sous-subreddits ?
+
+# # # # # # # # # # # # # # # # # # # # # # # # # #
+
+## Frugal - minimalist_lifestyle ##
+# Philosophy
+/r/stoicism
+/r/minimalism
+/r/frugal
+/r/anticonsumption
+/r/simpleliving
+# Housing
+/r/OffGridCabins
+/r/vandwellers
+/r/tinyhouses
+# Homesteading
+/r/homesteading
+/r/homestead
+/r/livingofftheland
+/r/selfsufficiency
+/r/permaculture
+# Transportation
+/r/lowcar
+/r/bikecommuting
+/r/publictransit
+# Food
+/r/eatcheapandhealthy
+/r/fitmeals
+/r/mealprepsunday
+/r/dumpsterdiving
+/r/budgetfood
+/r/minimeals
+# Money
+/r/financialindependence
+/r/leanfire
+/r/personalfinance
+/r/investing
+/r/ynab
+/r/debtfree
+/r/FinancialPlanning
+# Organization
+/r/declutter
+/r/onebag
+/r/OrganizationPorn
+# Others
+/r/patientgamers
+/r/ZeroWaste
+
+## m/selfsufficient/ ## 
+/r/Agriculture
+/r/Anticonsumption
+/r/aquaponics
+/r/Archery
+/r/AskPepper
+/r/BackYardChickens
+/r/Baking
+/r/Beekeeping
+/r/bees
+/r/Berries
+/r/bowhunting
+/r/Breadit
+/r/Bushcraft
+/r/BuyItForLife
+/r/Canning
+/r/Cooking
+/r/creativegardening
+/r/EatCheapAndHealthy
+/r/EdiblePlants
+/r/farming
+/r/fermentation
+/r/FifthWorldCooking
+/r/Fishing
+/r/flyfishing
+/r/flytying
+/r/FoodSovereignty
+/r/foraging
+/r/freeganism
+/r/gardening
+/r/GuerrillaGardening
+/r/homestead
+/r/Homesteaddit
+/r/Homesteading
+/r/HotPeppers
+/r/Hunting
+/r/hydro
+/r/Hydrology
+/r/Hydroponics
+/r/IceFishing
+/r/IndoorGarden
+/r/indoorgardening
+/r/KitchenConfidential
+/r/livingofftheland
+/r/MushroomGrowers
+/r/mycology
+/r/OrganicGardening
+/r/Pepperhowto
+/r/Permaculture
+/r/PhysicGarden
+/r/SavageGarden
+/r/seedsaving
+/r/seedstock
+/r/seedswap
+/r/SelfSufficiency
+/r/seriouseats
+/r/soapmaking
+/r/Survival
+/r/survivalism
+/r/TheHopyard
+/r/trailmeals
+/r/urbanfarming
+/r/UrbanSurvivalism
+/r/whatsthisbug
+/r/whatsthisplant
+
+##  whitelist ## 
+/r/Automate
+/r/DIY
+/r/Documentaries
+/r/environment
+/r/financialindependence
+/r/Futurology
+/r/Green
+/r/INTP
+/r/Nootropics
+/r/science
+/r/SelfSufficiency
+/r/StallmanWasRight
+/r/UrbanHomestead
+
+## diy ## 
+/r/arduino
+/r/DIY
+/r/electronics
+/r/metalworking
+/r/raspberry_pi
+/r/RASPBERRY_PI_PROJECTS
+/r/Tools
+/r/woodworking
+
+## /m/get_better/ ## 
+/r/coolguides
+/r/Fitness
+/r/getdisciplined
+/r/GetMotivated
+/r/knowyourshit
+/r/lifehacks
+/r/LifeImprovement
+/r/LifeProTips
+/r/Meditation
+/r/Mindfulness
+/r/quotes
+/r/selfhelp
+/r/selfimprovement
+/r/socialskills
+/r/thescienceofdeduction
+/r/TimeManagement
+/r/ZenHabits
+
+##  futuretechmulti subreddits ## 
+/r/aiclass
+/r/aiHub
+/r/artificial
+/r/Automate
+/r/automation
+/r/biotech
+/r/cryonics
+/r/curiosityrover
+/r/Cyberpunk
+/r/cyborg
+/r/electricvehicles
+/r/elonmusk
+/r/futurestudies
+/r/FutureWhatIf
+/r/Futurism
+/r/futuristparty
+/r/Futuristpolitics
+/r/Futurology
+/r/homeautomation
+/r/ImaginaryTechnology
+/r/inspirationmars
+/r/longevity
+/r/Nootropics
+/r/postearth
+/r/Rad_Decentralization
+/r/RenewableEnergy
+/r/RetroFuturism
+/r/robotics
+/r/scifi
+/r/SelfDrivingCars
+/r/Simulate
+/r/singularity
+/r/space
+/r/Space_Colonization
+/r/Spaceexploration
+/r/spaceflight
+/r/spacex
+/r/starparty
+/r/Synthetic_Biology
+/r/TheFutureIsNow
+/r/thevenusproject
+/r/tothemoon
+/r/Transhuman
+/r/transhumanism
+/r/transhumanist
